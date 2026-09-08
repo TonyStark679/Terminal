@@ -1,0 +1,6 @@
+{
+  "name": "ROHAN AI TERMINAL",
+  "description": "AI-first Android terminal emulator featuring real interactive shell sessions, Qwen and Gemma Tree-of-Thoughts CLI integration, 50+ themes, and automation engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
